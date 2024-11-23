@@ -60,7 +60,6 @@ author:
   bluesky          : "qiangzhang.bsky.social"
 
 
-
 # Reading Files
 include:
   - .htaccess
