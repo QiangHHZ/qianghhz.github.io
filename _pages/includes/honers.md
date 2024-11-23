@@ -10,6 +10,7 @@
 - *2017* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship (Top 3%)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competition
+
 - *2019* &nbsp;&nbsp;&nbsp; First Prize in the National College Student Land Use Planning Competition (2/60)
 - *2019* &nbsp;&nbsp;&nbsp; First Prize in the Henan Province Challenge Cup Competition
 - *2018* &nbsp;&nbsp;&nbsp; Third Prize in the National Geography Science Presentation Competition (4/20)
