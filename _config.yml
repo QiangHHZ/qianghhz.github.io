@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Qiang Zhang (张强)"
-description              : "PhD Candidate @ UCAS. Focusing on Global Change & One Health."
-repository               : "rayeren/rayeren.github.io"
+description              : "Global Change/Biodiversity/One Health."
+repository               : "QiangHHZ/qianghhz.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Qiang Zhang (张强))"
   avatar           : "images/zq_profile.jpeg"
-  bio              : "Chinese Academy of Sciences"
+  bio              : "PhD Candidate @ UCAS"
   location         : "Beijing"
   employer         :
   pubmed           : 
