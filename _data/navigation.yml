@@ -9,12 +9,11 @@ main:
   - title: "Research"
     url: "/#-research"
 
+  - title: "Presentations"
+    url: "/#-presentations"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
-
-  - title: "Presentations"
-    url: "/#-presentations"
-
