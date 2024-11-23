@@ -4,4 +4,6 @@ Hi! I am a Ph.D. Candidate at the Institute of Geographic Sciences and Natural R
 Now I am working on the **impact of climate & land use change on avian influenza spillover**. If you are seeking any form of **academic cooperation**, please feel free to email me at [qiang.hhz@gmail.com](mailto:qiang.hhz@gmail.com)!
 <br>
 
-My research interest spans disciplines and primarily focuses on leveraging **state-of-the-art satellite**, **citizen science**, **epidemiological data**, and **machine learning** to investigate the **impacts of climate and land use changes on One Health**. Previously, I have also investigated the effects of climate extremes on agroecosystems. 
+My research interest spans disciplines and primarily focuses on leveraging **state-of-the-art satellite**, **citizen science**, **epidemiological data**, and **machine learning** to investigate the **impacts of climate and land use changes on One Health**. Previously, I have also investigated the effects of climate extremes on agroecosystems.
+<br>
+<br>
