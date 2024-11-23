@@ -22,9 +22,9 @@ My full paper list is shown at [my Google Scholar](https://scholar.google.ca/cit
 [Unraveling the spatial-temporal patterns of typhoon impacts on maize during the milk stage in Northeast China in 2020](https://qianghhz.github.io/mypaper/Zhang_et_al_2024_European_Journal_of_Agronomy.pdf) \\
 **Q Zhang**, G Zhang, X Xiao, Y Zhang, N You, Y Di, T Yang, Y He, J Dong*<br>**European Journal of Agronomy**, 2024<br>
 
->- LSWI is the prior indicator for assessing typhoon disturbance in maize.
+>- LSWI is the prior indicator for assessing typhoon disturbance in maize
 >- Week-long lagging impacts of typhoons on maize growth lasted until the end of the growing season.
->- Spatial-temporal compensation mitigates typhoon impacts on maize in the entire region.
+>- Spatial-temporal compensation mitigates typhoon impacts on maize in the entire region
 
 </div>
 </div>
