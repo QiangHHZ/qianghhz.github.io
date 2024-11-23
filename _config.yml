@@ -7,7 +7,11 @@
 
 # Site Settings
 title                    : "Qiang Zhang"
-description              : "Focusing on global change, biodiversity, one health."
+# description              : "Focusing on global change, biodiversity, one health."
+description              : |
+  Global Change
+  Biodiversity
+  One Health
 repository               : "QiangHHZ/qianghhz.github.io"
 google_scholar_stats_use_cdn : true
 
