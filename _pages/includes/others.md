@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2022.09 - Present*, <br/>Ph.D. Student/Candidate, Geographic Information Science, <br/>Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, China.
+- *2022.09 - Present*, <br/>Ph.D. Student/Candidate, Geographic Information Science, <br/>Institute of Geographic Sciences and Natural Resources Research, <br/>Chinese Academy of Sciences, Beijing, China.<br/>University of Chinese Academy of Sciences, Beijing, China 
 - *2020.09 - 2022.06*, <br/>M.E., Earth Resources & Environment, <br/>China Agricultural University, Beijing, China.
 - *2016.09 - 2020.06*, <br/>B.M., Land Resources Management, <br/>Henan Agricultural University, Zhengzhou, Henan, China.
 
