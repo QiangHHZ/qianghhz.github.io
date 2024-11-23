@@ -8,7 +8,7 @@
 <br>
 <br>
 
-# 📖 Educations
+# 📖 Education
 - *2022.09 - Present*,
 <br/>Ph.D. Student/Candidate, Geographic Information Science,
 <br/>Institute of Geographic Sciences and Natural Resources Research, <br/>Chinese Academy of Sciences, Beijing, China
