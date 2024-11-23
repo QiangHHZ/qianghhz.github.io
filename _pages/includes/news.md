@@ -1,4 +1,4 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
+- *2024.11* &nbsp;&nbsp;&nbsp; 🎉🎉🎉 My personal academic website is now live!  
 <br>
 <br>
