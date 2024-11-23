@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Research"
-    url: "/#-Research"
+    url: "/#-research"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -16,5 +16,5 @@ main:
     url: "/#-educations"
 
   - title: "Presentations"
-    url: "/#-i Presentations"
+    url: "/#-presentations"
 
