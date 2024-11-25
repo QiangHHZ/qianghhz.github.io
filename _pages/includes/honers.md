@@ -19,7 +19,9 @@
 <br>
 <br>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sBSYW7M-fC4oxZoFKCPd2UhNGtIHnLKbJKaCTgWTQZ4"></script>
+<div style="width: 300px; height: 300px; overflow: hidden;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sBSYW7M-fC4oxZoFKCPd2UhNGtIHnLKbJKaCTgWTQZ4"></script>
+</div>
 
 <hr>
 <div style="text-align: center; color: gray">
