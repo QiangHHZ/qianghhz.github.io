@@ -18,8 +18,9 @@
 - *2017* &nbsp;&nbsp;&nbsp; First Prize in the Henan Agricultural University Freshman Football Tournament
 <br>
 <br>
-<br>
-<br>
 
 <hr>
+<div style="text-align: center;">
 © Qiang (updated at Nov 2024)
+</div>
+
