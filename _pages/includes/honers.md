@@ -20,19 +20,20 @@
 <br>
 <br>
 
-<!-- Container for the map and the text -->
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- Container for the map and the text (with text above the map) -->
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+  <!-- Text above the map -->
+  <div style="font-size: 24px; font-style: italic; padding-bottom: 10px;">
+    "Stay hungry, Stay foolish!"
+  </div>
   <!-- Map -->
   <div style="flex-shrink: 0; width: 300px; height: 300px; position: relative;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sBSYW7M-fC4oxZoFKCPd2UhNGtIHnLKbJKaCTgWTQZ4"></script>
   </div>
-  <!-- Text to the right of the map -->
-  <div style="padding-left: 20px; font-size: 24px; font-style: italic;">
-    "Stay hungry, Stay foolish!"
-  </div>
 </div>
 
 <hr>
+
 <div style="text-align: center; color: gray">
 © Qiang (updated at Nov 2024)
 </div>
