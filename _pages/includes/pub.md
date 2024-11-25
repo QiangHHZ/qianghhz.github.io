@@ -2,7 +2,7 @@
 ### 📚 Peer-reviewed
 <br>
 
-My full publication list is shown at [my Google Scholar](https://scholar.google.ca/citations?hl=en&user=ZxQO7MgAAAAJ&view_op=list_works&sortby=pubdate).
+My full publication list is shown on [my Google Scholar](https://scholar.google.ca/citations?hl=en&user=ZxQO7MgAAAAJ&view_op=list_works&sortby=pubdate).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Earth's Future</div><img src='images/Pub_GEDI_typhoon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,7 +39,7 @@ My full publication list is shown at [my Google Scholar](https://scholar.google.
 J Zeng†, F Du†, L Xiao, H Sun, L Lu, W Lei, J Zheng, L Wang, S Shu, Y Li, **Q Zhang**, K Tang, Q Sun, C Zhang, H Long, Z Qiu, K Zhai, Z Li, G Zhang, Y Sun, D Wang, Z Zhang, SJ Lycett, GF Gao, Y Shu, J Liu, X Du\*, J Pu\*<br>***Journal of Virology***, 2024<br>
 
 >- The 2020 outbreak of the H5N8 G1 genotype instead of the G0 genotype produced reassortment opportunities and led to the emergence of a new H5N1 virus with G1’s HA and MP genes
->- The temporal–spatial coincidence between the outbreak of the H5N8 G1 virus and the bird autumn migration may have expanded the H5 viral spread
+>- The spatial-temporal coincidence between the outbreak of the H5N8 G1 virus and the bird autumn migration may have expanded the H5 viral spread
 
 </div>
 </div>
