@@ -20,7 +20,7 @@
 <br>
 
 <hr>
-<div style="text-align: center;">
+<div style="text-align: center; color: gray">
 © Qiang (updated at Nov 2024)
 </div>
 <br>
