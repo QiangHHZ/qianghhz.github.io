@@ -18,12 +18,11 @@
 - *2017* &nbsp;&nbsp;&nbsp; First Prize in the Henan Agricultural University Freshman Football Tournament
 <br>
 <br>
-*"Stay hungry, Stay foolish! "*
 
-<div class='paper-box'><div style="align-items: center; width: 300px; height: 300px; overflow: visible;">
+<div style="align-items: center; width: 300px; height: 300px; overflow: visible;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sBSYW7M-fC4oxZoFKCPd2UhNGtIHnLKbJKaCTgWTQZ4"></script>
-</div></div>
-<div class='paper-box-text' markdown="1">
+</div>
+
 <hr>
 <div style="text-align: center; color: gray">
 © Qiang (updated at Nov 2024)
