@@ -53,7 +53,7 @@ J Zeng†, F Du†, L Xiao, H Sun, L Lu, W Lei, J Zheng, L Wang, S Shu, Y Li, **
 <div class='paper-box-text' markdown="1">
 
 [Spatiotemporal patterns of paddy rice production change in China during 1980–2018](https://qianghhz.github.io/mypaper/Zhang_et_al_2021_Resources_Science.pdf) \\
-**Q Zhang**, G Zhang*, D Zhu, Y Di, T Yang, R Liu, J Dong<br>***Resources Science (资源科学)*** (Cover paper, Chinese paper with English abstract), 2022<br>
+**Q Zhang**, G Zhang\*, D Zhu, Y Di, T Yang, R Liu, J Dong<br>***Resources Science (资源科学)*** (Cover paper, Chinese paper with English abstract), 2022<br>
 
 </div>
 </div>
