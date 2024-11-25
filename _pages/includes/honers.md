@@ -21,4 +21,5 @@
 <br>
 <br>
 
-
+<hr>
+© Qiang (updated at Nov 2024)

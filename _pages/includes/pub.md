@@ -4,7 +4,7 @@
 <br>
 
 My full publication list is shown at [my Google Scholar](https://scholar.google.ca/citations?hl=en&user=ZxQO7MgAAAAJ&view_op=list_works&sortby=pubdate).
-<hr>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Earth's Future</div><img src='images/Pub_GEDI_typhoon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
