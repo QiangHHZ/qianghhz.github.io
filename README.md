@@ -1,4 +1,4 @@
 
 <h1 align="center">
-Qiang Zhang's AcadHomepage
+Qiang Zhang's Academic Homepage
 </h1>
