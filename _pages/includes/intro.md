@@ -1,5 +1,5 @@
 <div style="text-align: center; color: gray; font-size: 24px; padding-bottom: 10px;">
-  <b>One Earth, One Health<b>
+  <b>One Earth, One Health</b>
 </div>
 <br>
 
