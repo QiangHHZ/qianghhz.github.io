@@ -1,7 +1,6 @@
-<div style="text-align: center; color: gray; font-size: 24px; padding-bottom: 10px;">
+<div style="text-align: center; font-size: 24px; padding-bottom: 10px;">
   <b>One Earth, One Health</b>
 </div>
-<br>
 
 # ☘️ About Me
 Hi! I am a Ph.D. Candidate at the Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, advised by [Jinwei Dong](https://scholar.google.com/citations?user=2dDrv84AAAAJ&hl=en) [(董金玮)](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/zrdl/201703/t20170306_4755253.html). Prior to UCAS, I graduated from China Agricultural University with a master's degree, advised by [Geli Zhang](https://scholar.google.com/citations?user=HewuvoUAAAAJ&hl=en) [(张戈丽)](https://clst.cau.edu.cn/art/2018/8/20/art_31196_581204.html), and from Henan Agricultural University with a bachelor's degree.
