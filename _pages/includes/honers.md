@@ -26,6 +26,10 @@
   <div style="font-size: 24px; font-style: italic; padding-bottom: 10px;">
     "Stay hungry, Stay foolish!"
   </div>
+  <!-- New Text below -->
+  <div style="font-size: 16px; padding-bottom: 10px; text-align: right; width: 100%;">
+    <span>—the </span><span style="font-style: italic;">Whole Earth Catalog</span>
+  </div>
   <!-- Map -->
   <div style="flex-shrink: 0; width: 300px; height: 300px; position: relative;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sBSYW7M-fC4oxZoFKCPd2UhNGtIHnLKbJKaCTgWTQZ4"></script>
