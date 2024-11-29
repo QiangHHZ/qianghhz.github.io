@@ -1,10 +1,10 @@
+<div style="text-align: center; padding-top: 20px; padding-bottom: 20px;">
+  <img src="images/flow_onehealth.png" alt="Global change-induced zoonotic spillover" style="max-width: 100%; height: auto;">
+</div>
+
 # 📝 Research
 ### 📚 Peer-reviewed
 <br>
-
-<div style="text-align: center; padding-top: 10px;">
-  <img src="images/flow_onehealth.png" alt="Global change-induced zoonotic spillover" style="max-width: 100%; height: auto;">
-</div>
 
 My full publication list is shown on [my Google Scholar](https://scholar.google.ca/citations?hl=en&user=ZxQO7MgAAAAJ&view_op=list_works&sortby=pubdate).
 
