@@ -12,3 +12,7 @@ Now I am working on the **impact of climate & land use change on avian influenza
 My research interest spans disciplines and primarily focuses on leveraging **state-of-the-art satellite**, **citizen science**, **epidemiological data**, and **machine learning** to investigate the **impacts of climate and land use changes on One Health**. Previously, I have also investigated the effects of climate extremes on agroecosystems.
 <br>
 <br>
+
+<div style="text-align: center; padding-top: 20px;">
+  <img src="images/intro_onehealth.png" alt="Description of Image" style="max-width: 100%; height: auto;">
+</div>
