@@ -13,6 +13,6 @@ My research interest spans disciplines and primarily focuses on leveraging **sta
 <br>
 <br>
 
-<div style="text-align: center; padding-top: 20px;">
-  <img src="images/intro_onehealth.png" alt="Description of Image" style="max-width: 100%; height: auto;">
+<div style="text-align: center; padding-top: 10px;">
+  <img src="images/intro_onehealth.png" alt="My research interest: One Health" style="max-width: 80%; height: auto;">
 </div>
