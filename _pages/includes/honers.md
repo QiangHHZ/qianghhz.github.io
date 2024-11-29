@@ -27,7 +27,7 @@
     "Stay hungry, Stay foolish!"
   </div>
   <!-- New Text below -->
-  <div style="font-size: 16px; padding-bottom: 10px; text-align: right; width: 100%;">
+  <div style="font-size: 12px; padding-bottom: 10px; text-align: right; width: 100%;">
     <span>—the </span><span style="font-style: italic;">Whole Earth Catalog</span>
   </div>
   <!-- Map -->
