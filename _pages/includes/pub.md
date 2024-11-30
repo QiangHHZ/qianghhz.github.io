@@ -1,10 +1,12 @@
 # 📝 Research
+<!--
 <div style="text-align: center; padding-top: 20px;">
   <img src="images/flow_onehealth.png" alt="Global change-induced zoonotic spillover" style="max-width: 100%; height: auto;">
 </div>
 <div style="text-align: right; font-size: 12px; font-style: italic; padding-bottom: 20px;">
   Designed by Jinwei Dong & Qiang Zhang
 </div>
+-->
 ### 📚 Peer-reviewed
 <br>
 
