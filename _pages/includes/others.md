@@ -28,21 +28,3 @@
 <br/>GPA rank: 1/59
 <br>
 <br>
-
-<table style="border-collapse: collapse; width: 100%;">
-  <!-- Ph.D. 学习阶段 -->
-  <tr style="border: none;">
-    <td style="width: 120px; vertical-align: top; padding: 10px;">
-      <img src="./images/CAS_LOGO2.jpg" alt="CAS Logo" width="100">
-    </td>
-    <td style="vertical-align: top; padding: 10px;">
-      <p>
-        <strong>*2022.09 - Present*</strong><br/>
-        Ph.D. Student/Candidate, Geographic Information Science<br/>
-        Institute of Geographic Sciences and Natural Resources Research,<br/>
-        Chinese Academy of Sciences, <em>Beijing, China</em><br/>
-        University of Chinese Academy of Sciences, <em>Beijing, China</em><br/>
-        Advisor: <a href="https://scholar.google.com/citations?user=2dDrv84AAAAJ&hl=en">Jinwei Dong</a> (<a href="https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/zrdl/201703/t20170306_4755253.html">董金玮</a>)
-      </p>
-    </td>
-  </tr>
