@@ -9,7 +9,7 @@
 # 📖 Education
 - *2022.09 - Present*
 <br/>Ph.D. Student/Candidate, Geographic Information Science,
-<br/>**Institute of Geographic Sciences and Natural Resources Research, <br/>Chinese Academy of Sciences**, *Beijing, China*
+<br/>**Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences**, *Beijing, China*
 <br/>**University of Chinese Academy of Sciences**, *Beijing, China*
 <br/>Advisor: [Jinwei Dong](https://scholar.google.com/citations?user=2dDrv84AAAAJ&hl=en) [(董金玮)](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/zrdl/201703/t20170306_4755253.html)
 <br>
