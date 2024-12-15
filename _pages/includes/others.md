@@ -1,11 +1,11 @@
 # 💬 Presentations
-- **Q Zhang**, J Dong, and X Xiao. **"The Impact of Anthropause During COVID-19 on the Activity of Avian Influenza Host Birds."** *AGU Annual Meeting*, Washington D.C., 9-13 Dec., 2024. (iPoster)
+- **Q Zhang**, J Dong, and X Xiao. **"The Impact of Anthropause During COVID-19 on the Activity of Avian Influenza Host Birds."** *AGU Annual Meeting*, Washington D.C., 9-13 December, 2024. (iPoster)
 <br>
 
-- **Q Zhang** and J Dong. **"The impact of COVID-19 lockdown on avian influenza host birds in China."** *International Conference on One Health*, Haikou, Hainan, China, 11–14 Aug., 2024. (Oral) 
+- **Q Zhang** and J Dong. **"The impact of COVID-19 lockdown on avian influenza host birds in China."** *International Conference on One Health*, Haikou, Hainan, China, 11–14 August, 2024. (Oral) 
 <br>
 
-- **Q Zhang**. **"Seasonal and spatial compensations mitigated the effects of typhoons on maize in Northeast China in 2020."** *3rd Global Land Programme (GLP) Asia Conference*, Sapporo, Hokkaido, Japan, Sept., 2021. (Oral, Online) 
+- **Q Zhang**. **"Seasonal and spatial compensations mitigated the effects of typhoons on maize in Northeast China in 2020."** *3rd Global Land Programme (GLP) Asia Conference*, Sapporo, Hokkaido, Japan, September, 2021. (Oral, Online) 
 <br>
 <br>
 
