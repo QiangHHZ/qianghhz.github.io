@@ -1,6 +1,6 @@
 # 📝 Research
 
-Global Change-Induced Zoonotic Spillover
+**Global Change-Induced Zoonotic Spillover**
 <div style="text-align: center; padding-top: 20px;">
   <img src="images/flow_onehealth.png" alt="Global change-induced zoonotic spillover" style="max-width: 100%; height: auto;">
 </div>
