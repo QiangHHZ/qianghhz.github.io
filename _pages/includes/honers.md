@@ -28,7 +28,7 @@
   </div>
   <!-- New Text below -->
   <div style="font-size: 12px; padding-bottom: 10px; text-align: right; width: 100%;">
-    <span>—the </span><span style="font-style: italic;">Whole Earth Catalog</span>
+    <span>—The </span><span style="font-style: italic;">Whole Earth Catalog</span>
   </div>
   <!-- Map -->
   <div style="flex-shrink: 0; width: 300px; height: 300px; position: relative;">
