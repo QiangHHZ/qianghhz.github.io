@@ -19,7 +19,7 @@ My full publication list is shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box-text' markdown="1">
 
 **[Energy shortages undermine agricultural drought resistance in the Democratic People’s Republic of Korea](https://qianghhz.github.io/mypaper/Zhang_et_al_2025_Nature_Food.pdf)** \\
-**Q Zhang**, G Zhang\*, Y Zhang\*, X Xiao, N You, Z Li, H Tang, T Yang, Y Di, J Dong\*<br>***Nature Food***, 2025<br>
+**Q Zhang**, J Dong\*, Z Xu, W Nam, J Yang, Y Zhang, Y Qin, S Gao, S Huang, H Tian, Q Yu, Q Ge\*<br>***Nature Food***, 2025<br>
 
 >- The Democratic People’s Republic of Korea (DPRK) suffers greater agricultural losses than the Republic of Korea under milder droughts
 >- Energy shortages, exacerbated by trade sanctions, have limited the DPRK’s irrigation capacity, further impairing its drought resistance and food security
