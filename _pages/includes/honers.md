@@ -6,7 +6,7 @@
 - *2021* &nbsp;&nbsp;&nbsp; National Scholarship for Graduate Students (¥20,000 / ~US$3,000; Top 0.2%)
 - *2021* &nbsp;&nbsp;&nbsp; Merit Student, China Agricultural University (Top 5%)
 - *2019* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship (¥5,000 / ~US$750; Top 3%)
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Merit Student, Henan Province (Top 0.3%)
+- *2019* &nbsp;&nbsp;&nbsp; Merit Student, Henan Province (Top 0.3%)
 - *2018* &nbsp;&nbsp;&nbsp; National Scholarship for Undergraduate Students (¥8,000 / ~US$1,200; Top 0.2%)
 - *2018* &nbsp;&nbsp;&nbsp; Merit Student, Henan Agricultural University (Top 5%)
 - *2017* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship (¥5,000 / ~US$750; Top 3%)
