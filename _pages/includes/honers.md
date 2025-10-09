@@ -1,21 +1,23 @@
 # 🎖 Honors and Awards
-- *2024* &nbsp;&nbsp;&nbsp; Merit Student of the University of Chinese Academy of Sciences (Top 5%)
-- *2023* &nbsp;&nbsp;&nbsp; Merit Student of the University of Chinese Academy of Sciences (Top 5%)
-- *2021* &nbsp;&nbsp;&nbsp; National Scholarship (Top 0.2%)
-- *2021* &nbsp;&nbsp;&nbsp; Merit Student of China Agricultural University (Top 5%)
-- *2019* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship (Top 3%)
-- *2019* &nbsp;&nbsp;&nbsp; Merit Student of Henan Province (Top 0.3%)
-- *2018* &nbsp;&nbsp;&nbsp; National Scholarship (Top 0.2%)
-- *2018* &nbsp;&nbsp;&nbsp; Merit Student of Henan Province (Top 5%)
-- *2017* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship (Top 3%)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Honors and Scholarships
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Competition
+- *2024* &nbsp;&nbsp;&nbsp; Merit Student, University of Chinese Academy of Sciences (¥1,500 / ~US$220; Top 5%)
+- *2023* &nbsp;&nbsp;&nbsp; Merit Student, University of Chinese Academy of Sciences (¥1,500 / ~US$220; Top 5%)
+- *2021* &nbsp;&nbsp;&nbsp; National Scholarship for Graduate Students (¥20,000 / ~US$3,000; Top 0.2%)
+- *2021* &nbsp;&nbsp;&nbsp; Merit Student, China Agricultural University (Top 5%)
+- *2019* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship (¥5,000 / ~US$750; Top 3%)
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Merit Student, Henan Province (Top 0.3%)
+- *2018* &nbsp;&nbsp;&nbsp; National Scholarship for Undergraduate Students (¥8,000 / ~US$1,200; Top 0.2%)
+- *2018* &nbsp;&nbsp;&nbsp; Merit Student, Henan Agricultural University (Top 5%)
+- *2017* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship (¥5,000 / ~US$750; Top 3%)
 
-- *2019* &nbsp;&nbsp;&nbsp; First Prize in the National College Student Land Use Planning Competition (2/60)
-- *2019* &nbsp;&nbsp;&nbsp; First Prize in the Henan Province Challenge Cup Competition
-- *2018* &nbsp;&nbsp;&nbsp; Third Prize in the National Geography Science Presentation Competition (4/20)
-- *2018* &nbsp;&nbsp;&nbsp; First Prize in the Northern Division of the National Geography Science Presentation Competition (1/50+)
-- *2017* &nbsp;&nbsp;&nbsp; First Prize in the Henan Agricultural University Freshman Football Tournament
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Awards and Competitions
+
+- *2019* &nbsp;&nbsp;&nbsp; First Prize, National College Student Land-Use Planning Competition (Rank 2/60+)
+- *2019* &nbsp;&nbsp;&nbsp; Second Prize, "Challenge Cup" Innovation Competition, Henan Province
+- *2018* &nbsp;&nbsp;&nbsp; Third Prize, National Geography Science Presentation Competition (National Division; Rank 4/20)
+- *2018* &nbsp;&nbsp;&nbsp; First Prize, National Geography Science Presentation Competition (Northern Division; Rank 1/50+)
+- *2017* &nbsp;&nbsp;&nbsp; First Prize, Freshman Football Tournament, Henan Agricultural University 
 
 <br>
 <br>
