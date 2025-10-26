@@ -19,7 +19,7 @@ My full publication list is shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box-text' markdown="1">
 
 **[Energy shortages undermine agricultural drought resistance in the Democratic People’s Republic of Korea](https://qianghhz.github.io/mypaper/Zhang_et_al_2025_Nature_Food.pdf)** \\
-**Q Zhang**, J Dong\*, Z Xu, W Nam, J Yang, Y Zhang, Y Qin, S Gao, S Huang, H Tian, Q Yu, Q Ge\*<br>***Nature Food***, 2025<br>
+**Q Zhang**, J Dong\*, Z Xu, W Nam, J Yang, Y Zhang, Y Qin, S Gao, S Huang, H Tian, Q Yu, Q Ge\*<br>***Nature Food***, 2025<br> **<span style="color:#e67e22;">Media Outlets ([Korean news](https://www.yna.co.kr/view/AKR20251017073500017?input=1195m))</span>**<br> 
 
 >- The Democratic People’s Republic of Korea (DPRK) suffers greater agricultural losses than the Republic of Korea under milder droughts
 >- Energy shortages, exacerbated by trade sanctions, have limited the DPRK’s irrigation capacity, further impairing its drought resistance and food security
@@ -73,7 +73,7 @@ J Zeng†, F Du†, L Xiao, H Sun, L Lu, W Lei, J Zheng, L Wang, S Shu, Y Li, **
 <div class='paper-box-text' markdown="1">
 
 **[Spatiotemporal patterns of paddy rice production change in China during 1980–2018](https://qianghhz.github.io/mypaper/Zhang_et_al_2021_Resources_Science.pdf)** \\
-**Q Zhang**, G Zhang\*, D Zhu, Y Di, T Yang, R Liu, J Dong<br>***Resources Science (资源科学)*** (Cover paper, Chinese paper with English abstract), 2022<br>
+**Q Zhang**, G Zhang\*, D Zhu, Y Di, T Yang, R Liu, J Dong<br>***Resources Science (资源科学)*** (Chinese paper with English abstract), 2022<br> **<span style="color:#e67e22;">Journal Cover</span>**<br>
 
 </div>
 </div>
