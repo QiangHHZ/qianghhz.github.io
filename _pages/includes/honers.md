@@ -1,6 +1,7 @@
 # 🎖 Honors and Awards
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Honors and Scholarships
 
+- *2025* &nbsp;&nbsp;&nbsp; National Scholarship for Doctoral Students (¥30,000 / ~US$4,200; Top 0.2%)
 - *2024* &nbsp;&nbsp;&nbsp; Merit Student, University of Chinese Academy of Sciences (¥1,500 / ~US$220; Top 5%)
 - *2023* &nbsp;&nbsp;&nbsp; Merit Student, University of Chinese Academy of Sciences (¥1,500 / ~US$220; Top 5%)
 - *2021* &nbsp;&nbsp;&nbsp; National Scholarship for Graduate Students (¥20,000 / ~US$3,000; Top 0.2%)
