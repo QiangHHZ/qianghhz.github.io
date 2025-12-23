@@ -3,7 +3,7 @@
 </div>
 
 # ☘️ About Me
-Hi! I am a Ph.D. Student at the Chinese Academy of Sciences (CAS), advised by [Jinwei Dong](https://scholar.google.com/citations?user=2dDrv84AAAAJ&hl=en) [(董金玮)](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/zrzy/201703/t20170306_4755253.html) and a Visiting Ph.D. Student at the University College London (UCL), advised by [Tim Newbold](https://timnewbold.github.io/index.html). Prior to CAS, I graduated from China Agricultural University with a master's degree, advised by [Geli Zhang](https://scholar.google.com/citations?user=HewuvoUAAAAJ&hl=en) [(张戈丽)](https://clst.cau.edu.cn/art/2018/8/20/art_31196_581204.html), and from Henan Agricultural University with a bachelor's degree.
+Hi! I am a Ph.D. Student at the Chinese Academy of Sciences (CAS), advised by [Jinwei Dong](https://scholar.google.com/citations?user=2dDrv84AAAAJ&hl=en) [(董金玮)](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/zrzy/201703/t20170306_4755253.html) and a Visiting Ph.D. Student at University College London (UCL), advised by [Tim Newbold](https://timnewbold.github.io/index.html). Before joining CAS, I earned my M.E. from China Agricultural University, where I was advised by [Geli Zhang](https://scholar.google.com/citations?user=HewuvoUAAAAJ&hl=en) [(张戈丽)](https://clst.cau.edu.cn/art/2018/8/20/art_31196_581204.html), and my B.S. from Henan Agricultural University.
 <br>
 
 Now I am working on the **impact of climate & land use change on avian influenza spillover**. If you are also interested in this topic and are seeking any form of **academic cooperation**, please feel free to email me at [qiang.hhz@gmail.com](mailto:qiang.hhz@gmail.com)!
