@@ -40,8 +40,8 @@
 </div>
 
 <hr>
-
 <div style="text-align: center; color: gray">
-© Qiang (updated at Sept 2025)
+© Qiang (updated at Dec 2025)
 </div>
+
 <br>
