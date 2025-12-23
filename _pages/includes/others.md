@@ -12,15 +12,11 @@
 # 📖 Education
 - *2025 - Present*
   <br/>Visiting Ph.D. Student, Ecology and Environmental Biology
-  <br/>**Centre for Biodiversity and Environment Research,**
-
-  <br/>**Department of Genetics, Evolution and Environment,**
-
-  <br/>**University College London**, *London, UK*
+  <br/>**Centre for Biodiversity and Environment Research,**<br/>**Department of Genetics, Evolution and Environment,**<br/>**University College London**, *London, UK*
   <br/>Advisor: [Tim Newbold](https://timnewbold.github.io/)
   <br>
   <br>
-
+  
 - *2022 - Present*
   <br/>Ph.D. Student, Geographic Information Science
   <br/>**Institute of Geographic Sciences and Natural Resources Research,**
