@@ -12,7 +12,7 @@
 # 📖 Education
 - *2025 - Present*
   <br/>Visiting Ph.D. Student, Ecology and Environmental Biology
-  <br/>**Centre for Biodiversity & Environment Research,**
+  <br/>**Centre for Biodiversity and Environment Research,**
 
   **Department of Genetics, Evolution and Environment,**
 
@@ -32,7 +32,7 @@
   <br>
 
 - *2020 - 2022*
-<br/>M.E., Earth Resources & Environment
+<br/>M.E., Earth Resources and Environment
 <br/>**China Agricultural University**, *Beijing, China*
 <br/>Advisor: [Geli Zhang](https://scholar.google.com/citations?user=HewuvoUAAAAJ&hl=en) [(张戈丽)](https://clst.cau.edu.cn/art/2018/8/20/art_31196_581204.html)
 <br>
