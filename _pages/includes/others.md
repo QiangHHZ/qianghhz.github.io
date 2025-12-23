@@ -14,9 +14,9 @@
   <br/>Visiting Ph.D. Student, Ecology and Environmental Biology
   <br/>**Centre for Biodiversity and Environment Research,**
 
-  **Department of Genetics, Evolution and Environment,**
+  <br/>**Department of Genetics, Evolution and Environment,**
 
-  **University College London**, *London, UK*
+  <br/>**University College London**, *London, UK*
   <br/>Advisor: [Tim Newbold](https://timnewbold.github.io/)
   <br>
   <br>
@@ -25,7 +25,7 @@
   <br/>Ph.D. Student, Geographic Information Science
   <br/>**Institute of Geographic Sciences and Natural Resources Research,**
 
-  **Chinese Academy of Sciences**, *Beijing, China*
+  <br/>**Chinese Academy of Sciences**, *Beijing, China*
   <br/>**University of Chinese Academy of Sciences**, *Beijing, China*
   <br/>Advisor: [Jinwei Dong](https://scholar.google.com/citations?user=2dDrv84AAAAJ&hl=en) [(董金玮)](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/zrzy/201703/t20170306_4755253.html)
   <br>
