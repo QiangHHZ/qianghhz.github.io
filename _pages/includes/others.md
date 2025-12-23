@@ -19,14 +19,11 @@
   
 - *2022 - Present*
   <br/>Ph.D. Student, Geographic Information Science
-  <br/>**Institute of Geographic Sciences and Natural Resources Research,**
-
-  <br/>**Chinese Academy of Sciences**, *Beijing, China*
-  <br/>**University of Chinese Academy of Sciences**, *Beijing, China*
+  <br/>**Institute of Geographic Sciences and Natural Resources Research,**<br/>**Chinese Academy of Sciences**, *Beijing, China*<br/>**University of Chinese Academy of Sciences**, *Beijing, China*
   <br/>Advisor: [Jinwei Dong](https://scholar.google.com/citations?user=2dDrv84AAAAJ&hl=en) [(董金玮)](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/zrzy/201703/t20170306_4755253.html)
   <br>
   <br>
-
+  
 - *2020 - 2022*
 <br/>M.E., Earth Resources and Environment
 <br/>**China Agricultural University**, *Beijing, China*
