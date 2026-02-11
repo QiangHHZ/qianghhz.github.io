@@ -30,7 +30,7 @@ My full publication list is shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data</div><img src='images/Pub_AIVHostBirdList.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[A taxonomically harmonized global dataset of wild bird hosts for avian influenza virus surveillance](https://qianghhz.github.io/mypaper/Zhang_et_al_2026_Diversity_and_Distributions.pdf)** \\
+**[A taxonomically harmonized global dataset of wild bird hosts for avian influenza virus surveillance](https://qianghhz.github.io/mypaper/ZDu_&_Zhang_et_al_2026_Scientific_Data.pdf)** \\
 F Du\#, **Q Zhang\#**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J Liu, Z Li\*, J Pu\*<br>***Scientific Data***, 2026<br> 
 
 >- 394 wild bird species spanning 26 orders is identified
