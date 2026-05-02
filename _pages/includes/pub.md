@@ -21,8 +21,8 @@ My full publication list is shown on [my Google Scholar](https://scholar.google.
 **[Anthropogenic transformation in terrestrial habitats of avian influenza host birds in the 21st century](https://qianghhz.github.io/mypaper/Zhang_et_al_2026_Science Bulletin.pdf)** \\
 **Q Zhang**, J Dong\*, Z Li, X Xiao, C Yan, N You, S Yin, Z Zhang, N Batbayar, K Ma\*<br>***Scince Bulletin***, 2026<br> 
 
->- Global artificial habitats of avian influenza host birds expanded significantly from 2000 to 2022, largely at the expense of natural ecosystems, especially forests
->- Human pressure was the dominant driver of habitat artificialization, highlighting intensifying wildlife–domestic animal–human interfaces under a One Health context
+>- Global artificial habitats of avian influenza host birds expanded significantly since 2000, largely at the expense of natural ecosystems
+>- Human pressure was the dominant driver of habitat artificialization, highlighting intensifying wildlife–domestic animal–human interfaces under the One Health context
 
 </div>
 </div>
