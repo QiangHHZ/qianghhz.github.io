@@ -37,7 +37,7 @@
 
 <hr>
 <div style="text-align: center; color: gray">
-© Qiang (updated at April 2026)
+© Qiang (updated at June 2026)
 </div>
 
 <br>
