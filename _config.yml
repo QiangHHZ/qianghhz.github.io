@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiang Zhang"
-description              : Global Change, Biodiversity, Birds, One Health
+description              : Global Change, Biodiversity, One Health
 repository               : "QiangHHZ/qianghhz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Qiang Zhang (张强)"
   avatar           : "images/zq_profile.jpg"
-  bio              : "Ph.D. Candidate @ CAS"
+  bio              : "Ph.D. Student @ CAS"
   location         : "Beijing"
   employer         :
   pubmed           : 

@@ -15,6 +15,43 @@ My full publication list is shown on [my Google Scholar](https://scholar.google.
 
 (†: equal contribution, *: corresponding author)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Bulletin</div><img src='images/Pub_HabitatChange.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Anthropogenic transformation in terrestrial habitats of avian influenza host birds in the 21st century](https://qianghhz.github.io/mypaper/Zhang_et_al_2026_Science Bulletin.pdf)** \\
+**Q Zhang**, J Dong\*, Z Li, X Xiao, C Yan, N You, S Yin, Z Zhang, N Batbayar, K Ma\*<br>***Science Bulletin***, 2026<br> 
+
+>- Global artificial habitats of avian influenza host birds expanded significantly since 2000, largely at the expense of natural ecosystems
+>- Human pressure was the dominant driver of habitat artificialization, highlighting intensifying wildlife–domestic animal–human interfaces under the One Health context
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Diversity and Distributions</div><img src='images/Pub_HabitatMaps.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Annual global habitat maps of avian influenza host birds from 2000 to 2022](https://qianghhz.github.io/mypaper/Zhang_et_al_2026_Diversity_and_Distributions.pdf)** \\
+**Q Zhang**, J Dong\*, Z Li, X Xiao, C Yan, N You, S Yin, Z Zhang, N Batbayar, K Ma\*<br>***Diversity and Distributions***, 2026<br> 
+
+>- The habitat classification system specific to AIV host birds
+>- Annual global habitat maps with 300-m resolution, includes 8 Level-1 and 34 Level-2 habitat types
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data</div><img src='images/Pub_AIVHostBirdList.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[A taxonomically harmonized global dataset of wild bird hosts for avian influenza virus surveillance](https://qianghhz.github.io/mypaper/Du_&_Zhang_et_al_2026_Scientific_Data.pdf)** \\
+F Du†, **Q Zhang†**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J Liu, Z Li\*, J Pu\*<br>***Scientific Data***, 2026<br> 
+
+>- 394 wild bird species spanning 26 orders is identified
+>- Structured in machine-readable formats, enabling reproducible and large-scale, species-level studies spanning virology, epidemiology, and biodiversity
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Food</div><img src='images/Pub_KoreaDrought.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
