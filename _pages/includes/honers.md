@@ -1,24 +1,20 @@
 # 🎖 Honors and Awards
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Honors and Scholarships
 
-- *2025* &nbsp;&nbsp;&nbsp; National Scholarship for Doctoral Students (¥30,000 / ~US$4,200; Top 0.2%)
-- *2024* &nbsp;&nbsp;&nbsp; Merit Student, University of Chinese Academy of Sciences (¥1,500 / ~US$220; Top 5%)
-- *2023* &nbsp;&nbsp;&nbsp; Merit Student, University of Chinese Academy of Sciences (¥1,500 / ~US$220; Top 5%)
-- *2021* &nbsp;&nbsp;&nbsp; National Scholarship for Graduate Students (¥20,000 / ~US$3,000; Top 0.2%)
-- *2021* &nbsp;&nbsp;&nbsp; Merit Student, China Agricultural University (Top 5%)
-- *2019* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship (¥5,000 / ~US$750; Top 3%)
-- *2019* &nbsp;&nbsp;&nbsp; Merit Student, Henan Province (Top 0.3%)
-- *2018* &nbsp;&nbsp;&nbsp; National Scholarship for Undergraduate Students (¥8,000 / ~US$1,200; Top 0.2%)
-- *2018* &nbsp;&nbsp;&nbsp; Merit Student, Henan Agricultural University (Top 5%)
-- *2017* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship (¥5,000 / ~US$750; Top 3%)
+- *2026* &nbsp;&nbsp;&nbsp; President’s Special Award, <span style="font-style:italic;">Chinese Academy of Sciences (CAS)</span> (Top 3‰) <span style="color:gray; font-style:italic;">The highest student honor of the CAS</span>
+- *2026* &nbsp;&nbsp;&nbsp; Outstanding Graduate, <span style="font-style:italic;">Beijing Municipal Education Commission, China</span> (Top 0.3%)
+- *2025* &nbsp;&nbsp;&nbsp; National Scholarship (Doctoral Students), <span style="font-style:italic;">Ministry of Education of China</span> (¥30,000/~US$4,200; Top 0.2%)
+- *2021* &nbsp;&nbsp;&nbsp; National Scholarship (Graduate Students), <span style="font-style:italic;">Ministry of Education of China</span> (¥20,000/~US$3,000; Top 0.2%)
+- *2019* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship, <span style="font-style:italic;">Department of Education of Henan Province</span> (¥5,000/~US$750; Top 3%)
+- *2019* &nbsp;&nbsp;&nbsp; Merit Student, <span style="font-style:italic;">Department of Education of Henan Province</span> (Top 0.3%)
+- *2018* &nbsp;&nbsp;&nbsp; National Scholarship (Undergraduate Students), <span style="font-style:italic;">Ministry of Education of China</span> (¥8,000/~US$1,200; Top 0.2%)
+- *2017* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship, <span style="font-style:italic;">Department of Education of Henan Province</span> (¥5,000/~US$750; Top 3%)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Awards and Competitions
 
 - *2019* &nbsp;&nbsp;&nbsp; First Prize, National College Student Land-Use Planning Competition (Rank 2/60+)
-- *2019* &nbsp;&nbsp;&nbsp; Second Prize, "Challenge Cup" Innovation Competition, Henan Province
-- *2018* &nbsp;&nbsp;&nbsp; Third Prize, National Geography Science Presentation Competition (National Division; Rank 4/20)
-- *2018* &nbsp;&nbsp;&nbsp; First Prize, National Geography Science Presentation Competition (Northern Division; Rank 1/50+)
-- *2017* &nbsp;&nbsp;&nbsp; First Prize, Freshman Football Tournament, Henan Agricultural University 
+- *2019* &nbsp;&nbsp;&nbsp; Second Prize, "Challenge Cup" Innovation Competition of Henan Province
+- *2018* &nbsp;&nbsp;&nbsp; Third Prize, National Geography Science Presentation Competition (Rank 4/100+)
 
 <br>
 <br>
