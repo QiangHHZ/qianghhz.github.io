@@ -19,7 +19,7 @@ My full publication list is shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box-text' markdown="1">
 
 **[Anthropogenic transformation in terrestrial habitats of avian influenza host birds in the 21st century](https://qianghhz.github.io/mypaper/Zhang_et_al_2026_Science Bulletin.pdf)** \\
-**Q Zhang**, J Dong\*, Z Li, X Xiao, C Yan, N You, S Yin, Z Zhang, N Batbayar, K Ma\*<br>***Science Bulletin***, 2026<br> 
+**<u>Q Zhang</u>**, J Dong\*, Z Li, X Xiao, C Yan, N You, S Yin, Z Zhang, N Batbayar, K Ma\*<br>***Science Bulletin***, 2026<br> 
 
 >- Global artificial habitats of avian influenza host birds expanded significantly since 2000, largely at the expense of natural ecosystems
 >- Human pressure was the dominant driver of habitat artificialization, highlighting intensifying wildlife–domestic animal–human interfaces under the One Health context
@@ -31,7 +31,7 @@ My full publication list is shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box-text' markdown="1">
 
 **[Annual global habitat maps of avian influenza host birds from 2000 to 2022](https://qianghhz.github.io/mypaper/Zhang_et_al_2026_Diversity_and_Distributions.pdf)** \\
-**Q Zhang**, J Dong\*, Z Li, X Xiao, C Yan, N You, S Yin, Z Zhang, N Batbayar, K Ma\*<br>***Diversity and Distributions***, 2026<br> 
+**<u>Q Zhang</u>**, J Dong\*, Z Li, X Xiao, C Yan, N You, S Yin, Z Zhang, N Batbayar, K Ma\*<br>***Diversity and Distributions***, 2026<br> 
 
 >- The habitat classification system specific to AIV host birds
 >- Annual global habitat maps with 300-m resolution, includes 8 Level-1 and 34 Level-2 habitat types
@@ -43,7 +43,7 @@ My full publication list is shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box-text' markdown="1">
 
 **[A taxonomically harmonized global dataset of wild bird hosts for avian influenza virus surveillance](https://qianghhz.github.io/mypaper/Du_&_Zhang_et_al_2026_Scientific_Data.pdf)** \\
-F Du†, **Q Zhang†**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J Liu, Z Li\*, J Pu\*<br>***Scientific Data***, 2026<br> 
+F Du†, **<u>Q Zhang</u>†**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J Liu, Z Li\*, J Pu\*<br>***Scientific Data***, 2026<br> 
 
 >- 394 wild bird species spanning 26 orders is identified
 >- Structured in machine-readable formats, enabling reproducible and large-scale, species-level studies spanning virology, epidemiology, and biodiversity
@@ -56,7 +56,7 @@ F Du†, **Q Zhang†**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J Liu, Z L
 <div class='paper-box-text' markdown="1">
 
 **[Energy shortages undermine agricultural drought resistance in the Democratic People’s Republic of Korea](https://qianghhz.github.io/mypaper/Zhang_et_al_2025_Nature_Food.pdf)** \\
-**Q Zhang**, J Dong\*, Z Xu, W Nam, J Yang, Y Zhang, Y Qin, S Gao, S Huang, H Tian, Q Yu, Q Ge\*<br>***Nature Food***, 2025<br> **<span style="color:#e67e22;">Media Outlet (<a href="https://www.yna.co.kr/view/AKR20251017073500017?input=1195m" style="color:#e67e22;">Yonhap News Agency</a>)</span>**<br> 
+**<u>Q Zhang</u>**, J Dong\*, Z Xu, W Nam, J Yang, Y Zhang, Y Qin, S Gao, S Huang, H Tian, Q Yu, Q Ge\*<br>***Nature Food***, 2025<br> **<span style="color:#e67e22;">Media Outlet (<a href="https://www.yna.co.kr/view/AKR20251017073500017?input=1195m" style="color:#e67e22;">Yonhap News Agency</a>)</span>**<br> 
 
 >- The Democratic People’s Republic of Korea (DPRK) suffers greater agricultural losses than the Republic of Korea under milder droughts
 >- Energy shortages, exacerbated by trade sanctions, have limited the DPRK’s irrigation capacity, further impairing its drought resistance and food security
@@ -69,7 +69,7 @@ F Du†, **Q Zhang†**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J Liu, Z L
 <div class='paper-box-text' markdown="1">
 
 **[Coupling GEDI LiDAR and optical satellite for revealing large-scale maize lodging in Northeast China](https://qianghhz.github.io/mypaper/Zhang_et_al_2024_Earths_Future.pdf)** \\
-**Q Zhang**, G Zhang\*, Y Zhang\*, X Xiao, N You, Z Li, H Tang, T Yang, Y Di, J Dong\*<br>***Earth's Future***, 2024<br>
+**<u>Q Zhang</u>**, G Zhang\*, Y Zhang\*, X Xiao, N You, Z Li, H Tang, T Yang, Y Di, J Dong\*<br>***Earth's Future***, 2024<br>
 
 >- The first application of GEDI in agricultural disaster assessment
 >- GEDI footprints can well reveal changes in maize height caused by typhoons
@@ -83,7 +83,7 @@ F Du†, **Q Zhang†**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J Liu, Z L
 <div class='paper-box-text' markdown="1">
 
 **[Unraveling the spatial-temporal patterns of typhoon impacts on maize during the milk stage in Northeast China in 2020](https://qianghhz.github.io/mypaper/Zhang_et_al_2024_European_Journal_of_Agronomy.pdf)** \\
-**Q Zhang**, G Zhang, X Xiao, Y Zhang, N You, Y Di, T Yang, Y He, J Dong\*<br>***European Journal of Agronomy***, 2024<br>
+**<u>Q Zhang</u>**, G Zhang, X Xiao, Y Zhang, N You, Y Di, T Yang, Y He, J Dong\*<br>***European Journal of Agronomy***, 2024<br>
 
 >- LSWI is the prior indicator for assessing typhoon disturbance in maize
 >- Week-long lagging impacts of typhoons on maize growth lasted until the end of the growing season
@@ -97,7 +97,7 @@ F Du†, **Q Zhang†**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J Liu, Z L
 <div class='paper-box-text' markdown="1">
 
 **[Spatiotemporal genotype replacement of H5N8 avian influenza viruses contributed to H5N1 emergence in 2021/2022 panzootic](https://qianghhz.github.io/mypaper/Zeng_et_al_2024_Journal_of_Virology.pdf)** \\
-J Zeng†, F Du†, L Xiao, H Sun, L Lu, W Lei, J Zheng, L Wang, S Shu, Y Li, **Q Zhang**, K Tang, Q Sun, C Zhang, H Long, Z Qiu, K Zhai, Z Li, G Zhang, Y Sun, D Wang, Z Zhang, SJ Lycett, GF Gao, Y Shu, J Liu, X Du\*, J Pu\*<br>***Journal of Virology***, 2024<br>
+J Zeng†, F Du†, L Xiao, H Sun, L Lu, W Lei, J Zheng, L Wang, S Shu, Y Li, **<u>Q Zhang</u>**, K Tang, Q Sun, C Zhang, H Long, Z Qiu, K Zhai, Z Li, G Zhang, Y Sun, D Wang, Z Zhang, SJ Lycett, GF Gao, Y Shu, J Liu, X Du\*, J Pu\*<br>***Journal of Virology***, 2024<br>
 
 >- The 2020 outbreak of the H5N8 G1 genotype instead of the G0 genotype produced reassortment opportunities and led to the emergence of a new H5N1 virus with G1’s HA and MP genes
 >- The spatial-temporal coincidence between the outbreak of the H5N8 G1 virus and the bird autumn migration may have expanded the H5 viral spread
@@ -110,7 +110,7 @@ J Zeng†, F Du†, L Xiao, H Sun, L Lu, W Lei, J Zheng, L Wang, S Shu, Y Li, **
 <div class='paper-box-text' markdown="1">
 
 **[Spatiotemporal patterns of paddy rice production change in China during 1980–2018](https://qianghhz.github.io/mypaper/Zhang_et_al_2021_Resources_Science.pdf)** \\
-**Q Zhang**, G Zhang\*, D Zhu, Y Di, T Yang, R Liu, J Dong<br>***Resources Science (资源科学)*** (Chinese paper with English abstract), 2022<br> **<span style="color:#e67e22;">Journal Cover</span>**<br>
+**<u>Q Zhang</u>**, G Zhang\*, D Zhu, Y Di, T Yang, R Liu, J Dong<br>***Resources Science (资源科学)*** (Chinese paper with English abstract), 2022<br> **<span style="color:#e67e22;">Journal Cover</span>**<br>
 
 </div>
 </div>
