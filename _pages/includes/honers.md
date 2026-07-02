@@ -1,12 +1,12 @@
 # 🎖 Honors and Awards
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Honors and Scholarships
 
-- *2026* &nbsp;&nbsp;&nbsp; President’s Special Award, <span style="font-style:italic;">Chinese Academy of Sciences (CAS)</span> (Top 3‰) <span style="color:#e67e22; font-style:italic;">The highest student honor of the CAS</span>
-- *2026* &nbsp;&nbsp;&nbsp; Outstanding Graduate, <span style="font-style:italic;">Beijing Municipal Education Commission, China</span> (Top 0.3%)
+- *2026* &nbsp;&nbsp;&nbsp; President’s Special Award, <span style="font-style:italic;">Chinese Academy of Sciences (CAS)</span> <span style="color:#e67e22; font-style:italic;">The highest student honor of the CAS</span>
+- *2026* &nbsp;&nbsp;&nbsp; Outstanding Graduate, <span style="font-style:italic;">Beijing Municipal Education Commission, China</span>
 - *2025* &nbsp;&nbsp;&nbsp; National Scholarship, <span style="font-style:italic;">Ministry of Education of China</span> (¥30,000/~US$4,200; Top 0.2%)
 - *2021* &nbsp;&nbsp;&nbsp; National Scholarship, <span style="font-style:italic;">Ministry of Education of China</span> (¥20,000/~US$3,000; Top 0.2%)
 - *2019* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship, <span style="font-style:italic;">Department of Education of Henan Province</span> (¥5,000/~US$750; Top 3%)
-- *2019* &nbsp;&nbsp;&nbsp; Merit Student, <span style="font-style:italic;">Department of Education of Henan Province</span> (Top 0.3%)
+- *2019* &nbsp;&nbsp;&nbsp; Merit Student, <span style="font-style:italic;">Department of Education of Henan Province</span>
 - *2018* &nbsp;&nbsp;&nbsp; National Scholarship, <span style="font-style:italic;">Ministry of Education of China</span> (¥8,000/~US$1,200; Top 0.2%)
 - *2017* &nbsp;&nbsp;&nbsp; National Encouragement Scholarship, <span style="font-style:italic;">Department of Education of Henan Province</span> (¥5,000/~US$750; Top 3%)
 

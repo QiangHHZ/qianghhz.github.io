@@ -34,6 +34,6 @@
 - *2016 - 2020*
 <br/>B.M., Land Resources Management
 <br/>**Henan Agricultural University**, *Zhengzhou, Henan, China*
-<br/>GPA rank: 1/59
+<br/>GPA Rank: 1/59
 <br>
 <br>
