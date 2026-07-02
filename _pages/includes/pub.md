@@ -18,7 +18,7 @@ My full publication list is shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Bulletin</div><img src='images/Pub_HabitatChange.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span style="text-decoration:none;">**[Anthropogenic transformation in terrestrial habitats of avian influenza host birds in the 21st century](https://qianghhz.github.io/mypaper/Zhang_et_al_2026_Science Bulletin.pdf)** \\
+**[Anthropogenic transformation in terrestrial habitats of avian influenza host birds in the 21st century](https://qianghhz.github.io/mypaper/Zhang_et_al_2026_Science Bulletin.pdf)** \\
 **<u>Q Zhang</u>**, J Dong\*, Z Li, X Xiao, C Yan, N You, S Yin, Z Zhang, N Batbayar, K Ma\*<br>***Science Bulletin***, 2026<br> 
 
 >- Global artificial habitats of avian influenza host birds expanded significantly since 2000, largely at the expense of natural ecosystems
