@@ -43,7 +43,7 @@ My full publication list is shown on [my Google Scholar](https://scholar.google.
 <div class='paper-box-text' markdown="1">
 
 **[A taxonomically harmonized global dataset of wild bird hosts for avian influenza virus surveillance](https://qianghhz.github.io/mypaper/Du_&_Zhang_et_al_2026_Scientific_Data.pdf)** \\
-F Du†, **<u>Q Zhang</u>†**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J Liu, Z Li\*, J Pu\*<br>***Scientific Data***, 2026<br> 
+F Du†, **<u>Q Zhang†</u>**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J Liu, Z Li\*, J Pu\*<br>***Scientific Data***, 2026<br> 
 
 >- 394 wild bird species spanning 26 orders is identified
 >- Structured in machine-readable formats, enabling reproducible and large-scale, species-level studies spanning virology, epidemiology, and biodiversity
@@ -56,7 +56,7 @@ F Du†, **<u>Q Zhang</u>†**, Y Cheng, Y Liu, W Lei, L Wang, H Sun, Y Sun, J L
 <div class='paper-box-text' markdown="1">
 
 **[Energy shortages undermine agricultural drought resistance in the Democratic People’s Republic of Korea](https://qianghhz.github.io/mypaper/Zhang_et_al_2025_Nature_Food.pdf)** \\
-**<u>Q Zhang</u>**, J Dong\*, Z Xu, W Nam, J Yang, Y Zhang, Y Qin, S Gao, S Huang, H Tian, Q Yu, Q Ge\*<br>***Nature Food***, 2025<br> **<span style="color:#e67e22;">Media Outlet (<a href="https://www.yna.co.kr/view/AKR20251017073500017?input=1195m" style="color:#e67e22;">Yonhap News Agency</a>)</span>**<br> 
+**<u>Q Zhang</u>**, J Dong\*, Z Xu, W Nam, J Yang, Y Zhang, Y Qin, S Gao, S Huang, H Tian, Q Yu, Q Ge\*<br>***Nature Food***, 2025<br> **<span style="color:#e67e22;">Media Outlet: <a href="https://www.yna.co.kr/view/AKR20251017073500017?input=1195m" style="color:#e67e22;">Yonhap News Agency</a></span>**<br> 
 
 >- The Democratic People’s Republic of Korea (DPRK) suffers greater agricultural losses than the Republic of Korea under milder droughts
 >- Energy shortages, exacerbated by trade sanctions, have limited the DPRK’s irrigation capacity, further impairing its drought resistance and food security
