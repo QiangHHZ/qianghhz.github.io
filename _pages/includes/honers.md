@@ -31,7 +31,7 @@
   </div>
   <!-- Map -->
   <div style="flex-shrink: 0; width: 300px; height: 300px; position: relative;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sBSYW7M-fC4oxZoFKCPd2UhNGtIHnLKbJKaCTgWTQZ4"></script>
+    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=umAWftpe6mbtMkLuniqFqFvff6pSK89HXesK0GusPaU"></script>
   </div>
 </div>
 
